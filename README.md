@@ -43,6 +43,7 @@ Languages: Python
 Libraries:
 tensorflow, numpy, matplotlib, requests, zipfile
 Pre-trained model: VGG16 from tensorflow.keras
+
 🌟 How to Use
 
 Clone this repository:
@@ -50,11 +51,7 @@ git clone https://github.com/yourusername/Flickr8k-Image-Captioning.git
 cd Flickr8k-Image-Captioning
 Open the project in Google Colab: Run Notebook
 Run all cells to download the dataset, extract features, and visualize results.
-🏆 Team Members
 
-Karthikeya Reddy Bommareddy
-Urekha Kulala
-Vaishnavi Pothuri
 🎯 Future Enhancements
 
 Expand to more datasets (e.g., COCO, Flickr30k).
